@@ -1,0 +1,16 @@
+Please following steps
+
+STEP 1:tar -xvf develop_viewtouch.tar
+extract develop_viewtouch.tar
+
+STEP 2: ./install_pm 
+This is a c file that installs the louiedogg perl module and sets permissions
+
+STEP 3: ./develop_viewtouch.pl --help
+This now has a help menu, you will need to select from the options.
+
+This is set to pull from Jack's diretory on the original install
+
+Please test the "--install-developer" option as well as the "--install-client" option. Please let me know how it turns out.
+The "--update" options you can try, but I am not very confident in the way I set them up yet.  
+
