@@ -161,6 +161,7 @@ my @packages	 =  qw(g++
 						gnome-schedule	
 						git 
 						gnome-panel
+						terminator
 						);
 						
 # Viewtouch Make Array
